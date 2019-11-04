@@ -1,4 +1,6 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+This is the course diary for the course Introduction to Data Science in Fall 2019. 
+I am a master's student in sociology who intends to learn things when working with data. 
+
